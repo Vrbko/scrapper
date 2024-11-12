@@ -3,6 +3,11 @@
 
 Scrapper je narjen z node.js
 
+## Scrapper
+ce rabi kdo pomoc (in jo rabite s parsersom ziher)
+pisi na 
+rene.vrbnjak@student.um.si  
+pa se lahko zmenimo, jaz sm to samo za robija nardil hehehehe
 
 
 
